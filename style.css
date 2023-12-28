@@ -1,0 +1,21 @@
+.centralizar {
+    display: block;
+    text-align: center;
+    align-content: center;
+}
+
+button {
+    height: 30px;
+    width: 90px;
+    font-size: 13px;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    margin-top: 5;
+    margin-bottom: 30;
+    font-size: 250px;
+}
